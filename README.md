@@ -1,2 +1,2 @@
 # ADMS_Project
-This project is based on RESTAURANT MANAGEMENT SYSTEM
+Advance Database Managemnet System project is based on RESTAURANT MANAGEMENT SYSTEM
